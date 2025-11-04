@@ -78,9 +78,3 @@ São analisadas diferenças práticas entre as arquiteturas **RISC e CISC** na f
 O projeto busca mostrar que compreender **arquitetura de computadores** é fundamental para **compreender segurança em profundidade**.  
 Mais do que uma arquitetura promissora, o **RISC-V** é um **laboratório aberto** para pesquisa, inovação e ensino de hardware seguro.  
 
----
-
-## 🔗 Repositório e Contato  
-
-📂 [Repositório completo no GitHub](https://github.com/pedrotuttman/SIAC2025)  
-✉️ Contato: pedro.tuttman@poli.ufrj.br  
